@@ -39,6 +39,11 @@
 
 ### 4. Currency Conversion and Related Manipulation:
 - Currency conversion was performed to standardize salary data for meaningful comparisons.
+![currency1.png](Images/currency1.png)
+![currency2.png](Images/currency2.png)
+![currency3.png](Images/currency3.png)
+![currency4.png](Images/currency4.png)
+![currency5.png](Images/currency5.png)
 
 ## 3. Data Analysis
 1. **Highest Paying Industry:** Computing or Tech emerges as the highest-paying industry, while Library appears to be the lowest-paying.
