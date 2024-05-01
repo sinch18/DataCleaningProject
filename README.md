@@ -2,6 +2,8 @@
 
 # Salary Survey Dataset Analysis
 
+## Programming Language: Python
+
 ## Dataset Information
 - **Dataset Origin:** The dataset being used is a Salary Survey from AskAManager.org, a popular advice column and blog run by Alison Green.
 - **Dataset Source:** The dataset can be found at [https://oscarbaruffa.com/messy/](https://oscarbaruffa.com/messy/).
