@@ -20,6 +20,7 @@
 ## 2. Cleaning Steps
 ### 1. Renaming Columns:
 - Column renaming was performed for clarity and consistency across variables.
+![rename_column1.png](Images/rename_column1.png)
 
 ### 2. Dropping Columns:
 - Redundant or irrelevant columns were dropped to streamline the dataset.
