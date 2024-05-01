@@ -32,6 +32,10 @@
 
 ### 3. Handling Missing Values:
 - Missing values were addressed through imputation techniques to maintain data integrity.
+![missingvalue1.png](Images/missingvalue1.png)
+![missingvalue2.png](Images/missingvalue2.png)
+![missingvalue3.png](Images/missingvalue3.png)
+![missingvalue4.png](Images/missingvalue4.png)
 
 ### 4. Currency Conversion and Related Manipulation:
 - Currency conversion was performed to standardize salary data for meaningful comparisons.
