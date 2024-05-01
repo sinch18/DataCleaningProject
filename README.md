@@ -47,11 +47,23 @@
 
 ## 3. Data Analysis
 1. **Highest Paying Industry:** Computing or Tech emerges as the highest-paying industry, while Library appears to be the lowest-paying.
+![pay.png](Images/pay.png)
+
 2. **Salary vs. Years of Experience:** Salary exhibits a linear increase with years of experience up to a certain point, beyond which it plateaus.
+![salaryvsyears.png](Images/salaryvsyears.png)
+
 3. **Salary Disparities Across Locations:** Salaries for the same role vary across different locations, with certain regions offering higher pay due to market factors.
+![salarydisparity.png](Images/salarydisparity.png)
+
 4. **Gender Disparities in Salary:** There are noticeable differences in salaries between genders, with men tending to earn more as experience increases.
+![salarydisparity.png](Images/salarydisparity.png)
+
 5. **Correlation between Education Level and Salary:** Individuals with professional degrees tend to earn higher salaries, followed by those with PhDs. However, there's only a marginal difference between salaries of Bachelor's and Master's degree holders.
+![education.png](Images/education.png)
+
 6. **Sweet Spot in Work Experience vs. Field Experience:** There appears to be a "sweet spot" where individuals with 8-10 years of total work experience and 5-7 years of experience in the same field tend to earn higher salaries.
+![workexperience.png](Images/workexperience.png)
+
 
 ## Conclusion
 The analysis provides valuable insights into salary trends based on various factors such as industry, experience, location, gender, and education level. Further refinements and deeper analysis may be required for specific research questions.
