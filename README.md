@@ -1,5 +1,3 @@
-# DataCleaningProject
-
 # Salary Survey Dataset Analysis
 
 ## Programming Language: Python
