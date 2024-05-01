@@ -21,9 +21,14 @@
 ### 1. Renaming Columns:
 - Column renaming was performed for clarity and consistency across variables.
 ![rename_column1.png](Images/rename_column1.png)
+![rename_column2.png](Images/rename_column2.png)
 
 ### 2. Dropping Columns:
 - Redundant or irrelevant columns were dropped to streamline the dataset.
+![dropcolumn1.png](Images/dropcolumn1.png)
+![dropcolumn2.png](Images/dropcolumn2.png)
+![dropcolumn3.png](Images/dropcolumn3.png)
+
 
 ### 3. Handling Missing Values:
 - Missing values were addressed through imputation techniques to maintain data integrity.
