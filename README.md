@@ -60,9 +60,10 @@
 ![gender.png](Images/gender.png)
 
 6. **Correlation between Education Level and Salary:** Individuals with professional degrees tend to earn higher salaries, followed by those with PhDs. However, there's only a marginal difference between salaries of Bachelor's and Master's degree holders.
+
 ![education.png](Images/education.png)
 
-7. **Sweet Spot in Work Experience vs. Field Experience:** There appears to be a "sweet spot" where individuals with 8-10 years of total work experience and 5-7 years of experience in the same field tend to earn higher salaries.
+8. **Sweet Spot in Work Experience vs. Field Experience:** There appears to be a "sweet spot" where individuals with 8-10 years of total work experience and 5-7 years of experience in the same field tend to earn higher salaries.
 ![workexperience.png](Images/workexperience.png)
 
 
